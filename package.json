@@ -1,0 +1,12 @@
+{
+  "name": "lumen",
+  "version": "1.0.0",
+  "description": "Lumen — AI Writing Workspace",
+  "main": "js/server.js",
+  "scripts": {
+    "start": "node js/server.js"
+  },
+  "engines": {
+    "node": ">=16"
+  }
+}
