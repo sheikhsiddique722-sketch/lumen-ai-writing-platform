@@ -51,7 +51,6 @@ The primary goal of this project was to practice building a premium SaaS-style f
 
 ```text
 
-```bash
 Lumen/
 │── index.html
 │── style.css
